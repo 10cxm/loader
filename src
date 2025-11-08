@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/10cxm/main/refs/heads/main/loader-scr"))()
+loadstring(game:HttpGet("https://cdn.authguard.org/virtual-file/10021dbf421a4021b5116ffb6f7c395b"))()
